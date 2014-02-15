@@ -22,3 +22,28 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Part 1 Changes:
+Headers:
+-made the titles in a blue font
+-changed the font for the other headers to a dark red color and applied a slight margin left
+-70px font for h1
+-bookman font applied
+
+paragraphs:
+-font-family:"New Century Schoolbook"
+-all of their text fonts are in comic sans with a larger applied margin on the top and bottom
+-slight text shadow applied
+
+body:
+-paper like color
+
+pre:
+-added border with shadow
+-center text alignment
+-italic text
+
+a:
+-dark red color
+-removed underline
+
+no images in any of the stories so no css apllied to img
